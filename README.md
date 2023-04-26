@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Concessionaria](https://github.com/HyperScripts/Concessionaria/wiki/Concession%C3%A1ria)
+# 📁 Documentação disponível do [Concessionaria](https://github.com/HyperScripts/Concessionaria/wiki/Concessionaria)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
